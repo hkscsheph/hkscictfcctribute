@@ -1,0 +1,9 @@
+#image {
+  max-width: 100%;
+  display: block;
+}
+
+ul {
+  display: inline-block;
+  text-align: left;
+}
